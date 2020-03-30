@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c63fa17d-bd76-4833-b1b8-c1cabeee8a20" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZpVdLnBXSxwzv04NChcjVYjYdd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="filePath" value="$PROJECT_DIR$/bin/main.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c63fa17d-bd76-4833-b1b8-c1cabeee8a20" name="Default Changelist" comment="" />
+      <created>1585536108128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585536108128</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1225" height="142" key="GridCell.Tab.0.bottom" timestamp="1585571677398">
+      <screen x="0" y="0" width="1268" height="768" />
+    </state>
+    <state width="1225" height="142" key="GridCell.Tab.0.bottom/0.0.1268.768/1366.0.1218.1024@0.0.1268.768" timestamp="1585571677398" />
+    <state width="1225" height="142" key="GridCell.Tab.0.center" timestamp="1585571677398">
+      <screen x="0" y="0" width="1268" height="768" />
+    </state>
+    <state width="1225" height="142" key="GridCell.Tab.0.center/0.0.1268.768/1366.0.1218.1024@0.0.1268.768" timestamp="1585571677398" />
+    <state width="1225" height="142" key="GridCell.Tab.0.left" timestamp="1585571677398">
+      <screen x="0" y="0" width="1268" height="768" />
+    </state>
+    <state width="1225" height="142" key="GridCell.Tab.0.left/0.0.1268.768/1366.0.1218.1024@0.0.1268.768" timestamp="1585571677398" />
+    <state width="1225" height="142" key="GridCell.Tab.0.right" timestamp="1585571677398">
+      <screen x="0" y="0" width="1268" height="768" />
+    </state>
+    <state width="1225" height="142" key="GridCell.Tab.0.right/0.0.1268.768/1366.0.1218.1024@0.0.1268.768" timestamp="1585571677398" />
+    <state x="16" y="108" key="new project wizard" timestamp="1585537550463">
+      <screen x="0" y="0" width="1268" height="768" />
+    </state>
+    <state x="16" y="108" key="new project wizard/0.0.1268.768/1366.0.1218.1024@0.0.1268.768" timestamp="1585537550463" />
+    <state x="290" y="172" key="run.anything.popup" timestamp="1585537894200">
+      <screen x="0" y="0" width="1268" height="768" />
+    </state>
+    <state x="290" y="172" key="run.anything.popup/0.0.1268.768/1366.0.1218.1024@0.0.1268.768" timestamp="1585537894200" />
+  </component>
+</project>
